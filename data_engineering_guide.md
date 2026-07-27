@@ -374,3 +374,171 @@ In conclusion, throughout this chapter we have dicussed what data engineering is
 The stronger definition proposed includes: design, implementation, operation, reliability, governance, consumers, and intentional use. These are the elements the create the distinction between data processing and fully fledged data engineering practice.
 
 ---
+
+## CHAPTER 1-2: The Definition Of Data Engineering
+
+### SECTION 1: The Precise Definition of Data Engineering
+
+Data engineering is a relatively loose term. The roles and responsibilities of any individual data engineering can be different depending on the organisation they work under and their objectives. For most companies, data engineering refers to be building of batch or streaming piplines. Other organisations may have more focus on platform infrastructure, data modelling, orchesration, and observability. Other organisations, may even integrate parts of analytics engineering and machine learning elements into operations.
+
+This variation makes a precise definition foundational and useful.
+
+Precisely, data engineering is the discipline of designing, building, operating, and governing systems that collect, transport, transform, store, and serve data reliably for analytical or operational use.
+
+This definition is more expansive that a simple "move data from point A to point B", because professional data engineering includes a much more rich range of responsibilities and skills than just the movement of data.
+
+#### Breaking Down The Definition of Data Engineering
+
+Each word is very intentional in the above definition. Lets explore each key word in some detail, and why they matter.
+
+##### Designing
+
+Before writing any code, a clear concept of system design must be constructed. This system design is motivated by the engineer understanding how exactly the system should behave.
+
+Design commonly includes questions such as:
+
+- Where does the data originate?
+- How frequently does data arrive?
+- What volume of data is expected?
+- What degree of latency is acceptable?
+- What downstream consumers have data dependencies?
+- Is history to be preserved?
+- What happens when data arrives late?
+- What happens when a data source changes?
+- How should data be partitioned?
+- What data quality elements are required?
+- What security restrictions should be implemented?
+- How much is the system projected to cost?
+
+A data pipeline may be technically functional, but still fail silently due to bad design, or fail to functionally satisfy its operational requirements due to poorly concieved system design choices.
+
+For example, a daily full reload of a 20TB table may produce correct results, but be excessively expensive, slow, and operationally fragile. Alternatives in design exist, such as an incremental loading strategy which could improve operational reliability and speed.
+
+##### Building
+
+Building refers to the actual implementation of a system by leveraging a plethora of software tools.
+
+These may involve:
+
+- Python or Scala applications
+- SQL transformations
+- PySpark compute jobs
+- Databricks notebooks
+- Delta Lake tables
+- Orchestration workflows
+- Schemas and data contracts
+- Cloud infrastructure configuration and resource provisioning
+- CI/CD automated pipelines
+- Monitoring rules
+- Pipeline observability and diagnostics
+
+The coding elements of implementation are significant, but only composes one fraction of the totality of a system.
+
+Robust, production pipelines tend to also have dependencies on:
+
+- Cloud storage
+- Compute clusters
+- Identify and access controls
+- Secrets
+- Network configuration
+- Metadata catalogues 
+- Deployment environments
+
+A data engineer is not just writing transformation and data validation logic. They are assembling a dependable data system as a whole, supported by often deep architecture around the core data engineering functionality.
+
+##### Operating
+
+Many beginner definitions of data engineering superficailly omit the importance of pipeline operation and maintainance.
+
+A data system is not just constructed as a one-off project and expected to work without fail forevermore. Systems must continue working after they are initially constructed and have their performance investigated.
+
+Data system operating includes:
+
+- Scheduling 
+- Monitoring
+- Alerting
+- Handling failures
+- Rerunning jobs
+- Backfilling historical data
+- Investigating incidents
+- Managing schema changes
+- Updating dependencies
+- Controlling infrastructure costs
+- Maintaining service expectations
+
+Naturally, a data system that works only when its author manually watches it is not production level data engineering. Data systems should have high degrees of autonomy and operability.
+
+Operational thinking is important in design and diagnostics of data systems. Some key things a data engineer thinking operationally might ask are:
+
+- How will I know the data system has failed?
+- How will I know it succeeded incorrectly?
+- Who receives failure alerts?
+- Can jobs be restarted safely?
+- Can missing data be replayed?
+- Will retrying create duplicates?
+- How long will recovery take?
+- What evidence is avaliable for diagnosis?
+
+Simply implementing a data system is impressive, but ultimately just a coding exercise. The value in data engineers is creating a cohesive engineered product that can be adaptive, resilient, and observed over time.
+
+##### Governing 
+
+Governance in data systems controls how data is defined, accessed, understood, and managed.
+
+Governance includes:
+
+- Ownership
+- Access control
+- Classification
+- Lineage
+- Data retention policy
+- Privacy
+- Auditability
+- Metadata
+- Quality expectations
+- Business definitions
+
+Data may be technically accessible, but unusable because it is not governed. For properly regulated interaction with data, people using a data system should know:
+
+- Who owns the data
+- What its fields mean
+- How current it is
+- Whether personal data is included
+- How personal data is managed
+- Whether downstream use is permitted
+- Whether its calculations are authoritative
+
+Data governance turns an isolated table into an accountable organisational data asset.
+
+##### Collecting
+
+Collection is the acquisition of data from sources. Data sources are not limited, and manifest in a variaty of different formats:
+
+Sources may include:
+
+- Relational databases
+- APIs
+- Files
+- Application logs
+- Message queues
+- Event streams
+- Sensor telemetry
+- Mobile applications
+- Third-party plaforms 
+
+Collection of data can happen through:
+
+- Scheduled batch extractions
+- File delivery systems
+- API polling
+- Database replications
+- Change Data Capture
+- Event subscriptions
+- Streaming data ingestion
+
+The method of data collection ideally should reflect the source and the business requirements simultaneously.
+
+For example, polling an API every minute may be very wasteful is data freshness is required at a daily interview, so a daily batch extraction may be more beneficial of a design choice. However, A daily file may be unacceptable when fraud decisions must happen within seconds. Using the best data collection method, while considering technicalities in conjunction with the business / operational context, helps a data engineer deduce the optimal method.
+
+##### Transporting
+
