@@ -1,0 +1,31 @@
+store_id,store_name,region,city,postcode,store_type,opened_date
+S001,Bath Clarke Neck,South West,Bath,W8A 5UE,Superstore,2023-10-01
+S002,Derby Mitchell Via,Midlands,Derby,B8B 3BN,Standard,2014-05-04
+S003,Oxford Caroline Mission,South East,Oxford,G59 0LN,Express,2012-12-24
+S004,Southampton Cook Keys,South East,Southampton,G8B 6RW,Express,2014-12-24
+S005,Durham Brandon Pines,North East,Durham,NE6W 3ZZ,Standard,2015-04-17
+S006,Leeds Mohammed Flats,Yorkshire,Leeds,L89 0HF,Express,2013-01-18
+S007,Newcastle upon Tyne Gerard Isle,North East,Newcastle upon Tyne,N10 8FJ,Express,2008-09-04
+S008,London Maureen Ports,London,London,DE10 5RJ,Superstore,2010-06-16
+S009,Bradford Ali Loop,Yorkshire,Bradford,CW58 4NX,Standard,2006-09-18
+S010,Derby Suzanne Mountains,Midlands,Derby,W4A 4QW,Express,2023-07-11
+S011,Liverpool Lees Trail,North West,Liverpool,E6C 7ZD,Standard,2010-05-17
+S012,Leeds Teresa Port,Yorkshire,Leeds,B9 6NR,Standard,2014-01-16
+S013,London Griffiths Flats,London,London,NE7M 8XJ,Standard,2024-05-04
+S014,Exeter Goodwin Overpass,South West,Exeter,S1T 1HJ,Standard,2008-08-08
+S015,Sunderland Toby Port,North East,Sunderland,W3E 4WT,Standard,2006-10-12
+S016,Bristol Todd Cliff,South West,Bristol,N3W 4HN,Standard,2010-07-30
+S017,Derby Frederick Hill,Midlands,Derby,NG7A 7SN,Express,2008-08-05
+S018,Reading Hall Roads,South East,Reading,SW9 5SA,Standard,2014-07-27
+S019,Exeter Christian Junctions,South West,Exeter,L6 1PB,Standard,2024-02-05
+S020,Leicester Gould Walks,Midlands,Leicester,SW0 4UG,Superstore,2022-05-25
+S021,Bath Chambers Lodge,South West,Bath,TA8 0RT,Standard,2023-10-12
+S022,Manchester Smith Points,North West,Manchester,HP7 4BE,Superstore,2024-06-25
+S023,Exeter Sean Key,South West,Exeter,CR5A 4AH,Express,2024-04-12
+S024,Preston Damien Prairie,North West,Preston,EX2R 0TU,Standard,2013-07-14
+S025,Southampton Ann Port,South East,Southampton,TA31 8BG,Standard,2014-01-13
+S026,Newcastle upon Tyne Carolyn Field,North East,Newcastle upon Tyne,WS1W 1HZ,Superstore,2020-06-16
+S027,Brighton Leigh Landing,South East,Brighton,W17 5AB,Standard,2014-12-24
+S028,Liverpool Price Locks,North West,Liverpool,SS48 3BG,Express,2023-10-30
+S029,Newcastle upon Tyne Damian Manor,North East,Newcastle upon Tyne,SK08 0XL,Standard,2021-10-26
+S030,Manchester Lane Circle,North West,Manchester,N87 6DT,Superstore,2013-04-29

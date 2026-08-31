@@ -1,0 +1,501 @@
+product_id,sku,product_name,category,subcategory,brand,unit_price,unit_cost,active_flag
+P00001,SKU-000001,Inventore Accessories,Clothing,Accessories,Donnelly-Wyatt,69.92,41.76,True
+P00002,SKU-000002,Similique Bedding,Home,Bedding,Smith Ltd,111.83,67.68,True
+P00003,SKU-000003,Sunt Accessories,Clothing,Accessories,Carpenter-Smith,50.89,39.62,True
+P00004,SKU-000004,Repellendus Lighting,Home,Lighting,Shaw Group,34.04,21.02,True
+P00005,SKU-000005,Saepe Smart Home,Electronics,Smart Home,"Lyons, Lawrence and Chandler",116.59,62.8,True
+P00006,SKU-000006,Quia Fitness,Sports,Fitness,Palmer-Stanley,23.19,11.43,True
+P00007,SKU-000007,Illo Snacks,Grocery,Snacks,Coates-Ford,1.94,1.24,True
+P00008,SKU-000008,Quos Cosmetics,Beauty,Cosmetics,Perkins Inc,10.81,5.17,True
+P00009,SKU-000009,Quia Footwear,Clothing,Footwear,Morgan and Sons,73.08,53.3,True
+P00010,SKU-000010,Repellendus Fresh Produce,Grocery,Fresh Produce,Simpson-Farrell,7.86,6.2,True
+P00011,SKU-000011,Pariatur Televisions,Electronics,Televisions,"Newman, Warren and Walker",63.65,40.58,True
+P00012,SKU-000012,Esse Laptops,Electronics,Laptops,Chapman Inc,169.28,84.71,True
+P00013,SKU-000013,Inventore Womenswear,Clothing,Womenswear,Spencer Inc,16.93,9.26,True
+P00014,SKU-000014,Facere Outdoor,Sports,Outdoor,Coates-Hurst,254.65,133.24,True
+P00015,SKU-000015,Quibusdam Furniture,Home,Furniture,Williams Group,48.14,37.12,True
+P00016,SKU-000016,Similique Headphones,Electronics,Headphones,Hussain-Mitchell,115.53,86.95,True
+P00017,SKU-000017,Laudantium Menswear,Clothing,Menswear,Khan-Brooks,46.41,34.67,True
+P00018,SKU-000018,Commodi Accessories,Clothing,Accessories,"Davies, Barber and Hughes",41.83,25.2,True
+P00019,SKU-000019,Repudiandae Fitness,Sports,Fitness,"Peters, Knight and Davies",37.74,25.36,True
+P00020,SKU-000020,Sit Fragrance,Beauty,Fragrance,"Moran, Hall and Pratt",85.7,63.04,True
+P00021,SKU-000021,Laborum Accessories,Clothing,Accessories,"Farmer, Sinclair and Berry",46.9,37.3,True
+P00022,SKU-000022,At Fresh Produce,Grocery,Fresh Produce,Marshall LLC,6.22,5.07,True
+P00023,SKU-000023,Fugiat Drinks,Grocery,Drinks,"Hussain, Gilbert and Douglas",4.7,2.67,True
+P00024,SKU-000024,Commodi Sportswear,Sports,Sportswear,"Foster, Connor and Perry",40.18,26.11,True
+P00025,SKU-000025,Quisquam Snacks,Grocery,Snacks,Cox Ltd,4.71,3.4,True
+P00026,SKU-000026,Nam Footwear,Clothing,Footwear,Gibson-Gregory,114.37,71.04,True
+P00027,SKU-000027,Distinctio Drinks,Grocery,Drinks,King Ltd,3.55,2.32,True
+P00028,SKU-000028,Aliquid Laptops,Electronics,Laptops,Davis-Williams,687.27,393.92,True
+P00029,SKU-000029,Molestiae Footwear,Clothing,Footwear,Lane-Jones,13.03,8.02,True
+P00030,SKU-000030,Illo Smart Home,Electronics,Smart Home,Graham and Sons,145.78,68.6,True
+P00031,SKU-000031,Praesentium Accessories,Electronics,Accessories,Mason-Wright,263.5,177.66,True
+P00032,SKU-000032,Dolorum Furniture,Home,Furniture,Green Group,44.2,24.5,True
+P00033,SKU-000033,A Snacks,Grocery,Snacks,"Hughes, Reeves and Barrett",17.9,12.83,True
+P00034,SKU-000034,Quos Sportswear,Sports,Sportswear,John-Wright,31.69,16.45,True
+P00035,SKU-000035,Voluptatibus Kitchen,Home,Kitchen,"Murphy, Graham and Smith",97.47,50.71,True
+P00036,SKU-000036,Natus Smart Home,Electronics,Smart Home,Russell and Sons,48.84,27.75,True
+P00037,SKU-000037,Tempora Haircare,Beauty,Haircare,"Lucas, Thomas and Yates",8.87,4.77,True
+P00038,SKU-000038,Pariatur Footwear,Clothing,Footwear,Fisher LLC,54.15,44.5,True
+P00039,SKU-000039,Voluptates Lighting,Home,Lighting,Rose LLC,31.66,23.42,True
+P00040,SKU-000040,Dignissimos Outdoor,Sports,Outdoor,"Jarvis, Lewis and Murphy",37.03,31.17,True
+P00041,SKU-000041,Voluptates Lighting,Home,Lighting,"Stone, Williams and Herbert",15.37,7.82,True
+P00042,SKU-000042,Labore Accessories,Electronics,Accessories,Webster-Gibson,181.16,118.11,True
+P00043,SKU-000043,Natus Headphones,Electronics,Headphones,"Smart, Price and Russell",364.59,282.34,True
+P00044,SKU-000044,Et Sportswear,Sports,Sportswear,Marsh Ltd,23.39,14.18,True
+P00045,SKU-000045,Voluptatum Sportswear,Sports,Sportswear,Harding Inc,51.58,29.6,True
+P00046,SKU-000046,Quibusdam Haircare,Beauty,Haircare,"Reeves, Carter and Sanderson",19.59,9.66,True
+P00047,SKU-000047,Possimus Haircare,Beauty,Haircare,Lane-Sharp,15.28,8.25,True
+P00048,SKU-000048,Quos Furniture,Home,Furniture,Harris Inc,51.2,41.25,True
+P00049,SKU-000049,Rem Snacks,Grocery,Snacks,"Buckley, Wood and Howells",3.5,2.88,True
+P00050,SKU-000050,Et Headphones,Electronics,Headphones,Charlton Ltd,581.78,276.54,True
+P00051,SKU-000051,Ut Bedding,Home,Bedding,Adams-Robson,94.87,80.24,True
+P00052,SKU-000052,Placeat Womenswear,Clothing,Womenswear,"Bray, Taylor and Lynch",49.48,31.23,True
+P00053,SKU-000053,Nam Fitness,Sports,Fitness,King Inc,60.03,40.03,True
+P00054,SKU-000054,Quod Drinks,Grocery,Drinks,Pearson-Hunter,8.4,4.57,True
+P00055,SKU-000055,Harum Footwear,Clothing,Footwear,"Booth, Berry and O'Connor",63.88,47.27,True
+P00056,SKU-000056,Sunt Fresh Produce,Grocery,Fresh Produce,Lee PLC,11.0,6.12,True
+P00057,SKU-000057,Minus Fragrance,Beauty,Fragrance,"Naylor, Edwards and Davis",5.29,3.54,True
+P00058,SKU-000058,Saepe Furniture,Home,Furniture,Hamilton Inc,58.68,48.44,True
+P00059,SKU-000059,Laborum Skincare,Beauty,Skincare,Freeman-Lowe,49.13,23.18,True
+P00060,SKU-000060,Fuga Accessories,Electronics,Accessories,Ahmed Ltd,141.22,84.16,True
+P00061,SKU-000061,Magni Cosmetics,Beauty,Cosmetics,Taylor Inc,167.21,93.85,True
+P00062,SKU-000062,Accusamus Haircare,Beauty,Haircare,"Wheeler, Smith and Howe",11.89,9.29,True
+P00063,SKU-000063,Nulla Womenswear,Clothing,Womenswear,Chapman PLC,38.42,28.12,True
+P00064,SKU-000064,Quas Accessories,Electronics,Accessories,Williams-Richardson,304.91,162.96,True
+P00065,SKU-000065,Saepe Sportswear,Sports,Sportswear,Hunt Ltd,79.02,44.21,True
+P00066,SKU-000066,Alias Televisions,Electronics,Televisions,Cooper Group,195.97,90.25,True
+P00067,SKU-000067,Laudantium Kitchen,Home,Kitchen,Wilson-Doyle,27.19,19.09,True
+P00068,SKU-000068,Laborum Drinks,Grocery,Drinks,Green Ltd,8.67,5.07,True
+P00069,SKU-000069,Vitae Accessories,Clothing,Accessories,Foster-Gould,13.8,8.64,True
+P00070,SKU-000070,Libero Accessories,Clothing,Accessories,Fletcher-Price,37.72,18.67,True
+P00071,SKU-000071,Iure Headphones,Electronics,Headphones,Walsh Group,151.18,127.15,True
+P00072,SKU-000072,Provident Footwear,Clothing,Footwear,Douglas-Stevens,30.74,16.07,True
+P00073,SKU-000073,Occaecati Running,Sports,Running,"Walker, Green and Parsons",97.8,57.9,True
+P00074,SKU-000074,Nesciunt Bedding,Home,Bedding,"Phillips, Begum and Owen",51.06,30.56,True
+P00075,SKU-000075,Sint Accessories,Electronics,Accessories,Bennett-Frost,153.15,107.15,True
+P00076,SKU-000076,Voluptas Running,Sports,Running,Evans Inc,36.03,20.31,True
+P00077,SKU-000077,Dolore Skincare,Beauty,Skincare,Cross-Clarke,63.07,51.68,True
+P00078,SKU-000078,Blanditiis Headphones,Electronics,Headphones,Davis-Murphy,155.99,85.72,True
+P00079,SKU-000079,Sequi Haircare,Beauty,Haircare,"Jones, Moore and Taylor",33.74,21.86,True
+P00080,SKU-000080,Sit Menswear,Clothing,Menswear,Hobbs-Abbott,18.83,12.96,True
+P00081,SKU-000081,Ea Drinks,Grocery,Drinks,Mann Inc,6.02,4.87,True
+P00082,SKU-000082,Expedita Televisions,Electronics,Televisions,Harris-Collins,141.7,86.66,True
+P00083,SKU-000083,Quis Headphones,Electronics,Headphones,May and Sons,303.66,153.57,True
+P00084,SKU-000084,Consequatur Lighting,Home,Lighting,Walker LLC,50.49,40.7,True
+P00085,SKU-000085,Repellendus Fragrance,Beauty,Fragrance,Hill Group,42.43,28.49,True
+P00086,SKU-000086,Laudantium Drinks,Grocery,Drinks,"Patel, Hilton and Jones",9.73,5.94,True
+P00087,SKU-000087,Libero Fresh Produce,Grocery,Fresh Produce,Collier Group,3.9,2.03,True
+P00088,SKU-000088,Id Cosmetics,Beauty,Cosmetics,Harrison-Davidson,17.23,12.24,True
+P00089,SKU-000089,Eveniet Bedding,Home,Bedding,"Watts, Watson and Peacock",40.31,30.72,True
+P00090,SKU-000090,Modi Televisions,Electronics,Televisions,Gill-Martin,783.15,627.1,True
+P00091,SKU-000091,Exercitationem Drinks,Grocery,Drinks,Hamilton LLC,11.14,6.79,True
+P00092,SKU-000092,Porro Furniture,Home,Furniture,Riley Inc,98.49,69.85,True
+P00093,SKU-000093,Iure Haircare,Beauty,Haircare,Williams Ltd,6.71,4.49,True
+P00094,SKU-000094,Illum Menswear,Clothing,Menswear,"Burton, Evans and Pearce",32.44,25.49,True
+P00095,SKU-000095,Harum Cosmetics,Beauty,Cosmetics,Fletcher PLC,23.35,15.89,True
+P00096,SKU-000096,Laudantium Bedding,Home,Bedding,Patel-Gray,53.54,28.37,True
+P00097,SKU-000097,Fugiat Fresh Produce,Grocery,Fresh Produce,Ward Group,1.69,0.97,True
+P00098,SKU-000098,Accusantium Sportswear,Sports,Sportswear,"Davidson, Barker and Cunningham",29.32,17.68,True
+P00099,SKU-000099,Sequi Televisions,Electronics,Televisions,"Schofield, Thomas and Birch",458.39,322.53,True
+P00100,SKU-000100,Nulla Running,Sports,Running,"Hill, Taylor and Stevenson",148.26,71.17,True
+P00101,SKU-000101,Incidunt Cosmetics,Beauty,Cosmetics,Woods Inc,21.14,12.15,True
+P00102,SKU-000102,Corporis Menswear,Clothing,Menswear,Gardner PLC,19.86,15.62,True
+P00103,SKU-000103,Odit Womenswear,Clothing,Womenswear,Forster and Sons,17.89,10.86,True
+P00104,SKU-000104,Quas Smart Home,Electronics,Smart Home,"Spencer, Browne and Bennett",199.72,101.51,True
+P00105,SKU-000105,Dolores Fragrance,Beauty,Fragrance,"Newton, Saunders and Smith",24.77,15.02,True
+P00106,SKU-000106,Saepe Fragrance,Beauty,Fragrance,Thomas-Austin,26.44,13.4,True
+P00107,SKU-000107,Provident Sportswear,Sports,Sportswear,"Hanson, Haynes and Taylor",162.94,87.8,True
+P00108,SKU-000108,Exercitationem Womenswear,Clothing,Womenswear,Hyde-Thorpe,15.7,12.64,True
+P00109,SKU-000109,Culpa Skincare,Beauty,Skincare,Morris-Power,8.6,6.46,True
+P00110,SKU-000110,Suscipit Footwear,Clothing,Footwear,"O'Sullivan, Taylor and Pearson",12.66,10.44,True
+P00111,SKU-000111,Reiciendis Outdoor,Sports,Outdoor,"Bennett, Atkinson and Lowe",10.13,4.77,True
+P00112,SKU-000112,Quod Kitchen,Home,Kitchen,Taylor Inc,80.67,63.16,True
+P00113,SKU-000113,Quo Bedding,Home,Bedding,Peters-Newton,92.63,57.21,True
+P00114,SKU-000114,Dicta Sportswear,Sports,Sportswear,Shepherd-Yates,60.55,42.99,True
+P00115,SKU-000115,Aliquid Cosmetics,Beauty,Cosmetics,"Bennett, Smith and Nelson",51.33,33.79,True
+P00116,SKU-000116,Explicabo Menswear,Clothing,Menswear,"Wright, Roberts and Potts",34.39,28.5,True
+P00117,SKU-000117,Assumenda Fragrance,Beauty,Fragrance,Jones Ltd,18.03,12.12,True
+P00118,SKU-000118,At Haircare,Beauty,Haircare,Cook Inc,7.7,4.19,True
+P00119,SKU-000119,Facilis Fitness,Sports,Fitness,"Mistry, Jones and Singh",79.74,43.63,True
+P00120,SKU-000120,Magnam Cosmetics,Beauty,Cosmetics,"Young, Richards and Martin",20.51,11.02,True
+P00121,SKU-000121,Cum Bedding,Home,Bedding,Roberts-Brown,74.74,56.21,True
+P00122,SKU-000122,Reiciendis Televisions,Electronics,Televisions,Johnson and Sons,76.06,38.17,True
+P00123,SKU-000123,Dignissimos Accessories,Clothing,Accessories,Baker Ltd,19.54,15.44,True
+P00124,SKU-000124,Dolores Fresh Produce,Grocery,Fresh Produce,"Bond, Morton and Roberts",4.32,1.97,True
+P00125,SKU-000125,Cum Lighting,Home,Lighting,Ford-Scott,42.38,19.92,True
+P00126,SKU-000126,Accusantium Drinks,Grocery,Drinks,Young Group,2.64,1.66,True
+P00127,SKU-000127,Corrupti Bedding,Home,Bedding,Davies-Nicholls,69.14,36.62,True
+P00128,SKU-000128,Labore Womenswear,Clothing,Womenswear,Webb-Brennan,126.45,86.41,True
+P00129,SKU-000129,Fugiat Running,Sports,Running,Kaur-Hardy,116.77,86.06,True
+P00130,SKU-000130,Minima Fragrance,Beauty,Fragrance,Holloway-Ahmed,42.48,34.51,True
+P00131,SKU-000131,Animi Sportswear,Sports,Sportswear,"Dean, Holt and Howard",46.77,39.46,True
+P00132,SKU-000132,Ad Furniture,Home,Furniture,Evans Inc,19.61,16.0,True
+P00133,SKU-000133,Non Running,Sports,Running,Barnes Ltd,17.91,14.9,True
+P00134,SKU-000134,Officia Bedding,Home,Bedding,Brown Group,106.97,72.1,True
+P00135,SKU-000135,Soluta Outdoor,Sports,Outdoor,"Taylor, Rowe and Todd",30.65,15.51,True
+P00136,SKU-000136,Quibusdam Fragrance,Beauty,Fragrance,"Mason, Patel and Carter",65.33,53.4,True
+P00137,SKU-000137,Minima Kitchen,Home,Kitchen,Williams-Jones,22.85,12.54,True
+P00138,SKU-000138,Incidunt Televisions,Electronics,Televisions,Moore PLC,111.93,87.07,True
+P00139,SKU-000139,Iste Sportswear,Sports,Sportswear,"Burrows, Marsden and Barnes",12.57,9.65,True
+P00140,SKU-000140,Quos Outdoor,Sports,Outdoor,Johnson PLC,27.36,17.61,True
+P00141,SKU-000141,Fugit Fresh Produce,Grocery,Fresh Produce,Ryan-Gallagher,2.85,1.5,True
+P00142,SKU-000142,Occaecati Sportswear,Sports,Sportswear,"Rose, Baxter and Fox",27.28,21.33,True
+P00143,SKU-000143,Ipsum Drinks,Grocery,Drinks,Walker Ltd,1.38,1.07,True
+P00144,SKU-000144,Non Womenswear,Clothing,Womenswear,"Parker, Ward and Smith",27.34,15.28,True
+P00145,SKU-000145,Pariatur Sportswear,Sports,Sportswear,Bray-Kennedy,124.26,103.61,True
+P00146,SKU-000146,Non Sportswear,Sports,Sportswear,"Jones, Harding and Baker",103.76,60.45,True
+P00147,SKU-000147,Illum Furniture,Home,Furniture,McCarthy-Ali,277.05,130.76,True
+P00148,SKU-000148,Facilis Womenswear,Clothing,Womenswear,Whitehouse Ltd,48.3,23.23,True
+P00149,SKU-000149,Perspiciatis Accessories,Clothing,Accessories,Bennett LLC,29.03,17.18,True
+P00150,SKU-000150,Perspiciatis Fresh Produce,Grocery,Fresh Produce,"Walker, Ahmed and Bryan",5.57,2.81,True
+P00151,SKU-000151,Eligendi Accessories,Electronics,Accessories,Briggs-Wood,186.22,118.89,True
+P00152,SKU-000152,Recusandae Menswear,Clothing,Menswear,"Kelly, Stewart and Lambert",31.88,16.05,True
+P00153,SKU-000153,Corporis Accessories,Electronics,Accessories,Stewart-Scott,97.71,65.84,True
+P00154,SKU-000154,Rem Fragrance,Beauty,Fragrance,Browne-Taylor,32.92,26.48,True
+P00155,SKU-000155,Fugiat Fragrance,Beauty,Fragrance,"Edwards, Lamb and Clarke",53.87,27.26,True
+P00156,SKU-000156,Atque Fresh Produce,Grocery,Fresh Produce,North PLC,2.84,1.7,True
+P00157,SKU-000157,Unde Laptops,Electronics,Laptops,Williams Ltd,65.15,48.42,True
+P00158,SKU-000158,Enim Menswear,Clothing,Menswear,"Turnbull, Jackson and Ryan",41.64,35.23,True
+P00159,SKU-000159,Officiis Laptops,Electronics,Laptops,"Nicholls, Sharp and Berry",118.56,77.58,True
+P00160,SKU-000160,Doloremque Fresh Produce,Grocery,Fresh Produce,"Finch, Duncan and Wood",5.18,2.37,True
+P00161,SKU-000161,Ipsam Menswear,Clothing,Menswear,Bennett-Davis,31.26,26.01,True
+P00162,SKU-000162,Consequatur Sportswear,Sports,Sportswear,"Sharp, Kelly and Williams",71.45,44.52,True
+P00163,SKU-000163,Deserunt Menswear,Clothing,Menswear,"Pearce, Thompson and Wood",10.79,6.52,True
+P00164,SKU-000164,Perferendis Kitchen,Home,Kitchen,Cooper PLC,79.94,64.2,True
+P00165,SKU-000165,Omnis Menswear,Clothing,Menswear,Griffiths and Sons,8.76,6.04,True
+P00166,SKU-000166,Consequuntur Accessories,Electronics,Accessories,Jordan Group,270.28,179.64,True
+P00167,SKU-000167,Nihil Kitchen,Home,Kitchen,Hyde-Kemp,71.57,36.62,True
+P00168,SKU-000168,Alias Ambient Foods,Grocery,Ambient Foods,Williams-Barnett,6.58,3.78,True
+P00169,SKU-000169,Corrupti Outdoor,Sports,Outdoor,Watts-Carroll,91.75,58.82,True
+P00170,SKU-000170,Saepe Televisions,Electronics,Televisions,"Knowles, O'Sullivan and Brown",62.82,44.32,True
+P00171,SKU-000171,Dolores Televisions,Electronics,Televisions,"Gray, Hutchinson and Thompson",269.23,133.71,True
+P00172,SKU-000172,Facere Skincare,Beauty,Skincare,Collins Inc,12.93,9.14,True
+P00173,SKU-000173,Fugit Cosmetics,Beauty,Cosmetics,Forster-Metcalfe,21.07,14.86,True
+P00174,SKU-000174,Est Footwear,Clothing,Footwear,"Stevens, Robertson and Taylor",65.43,52.9,True
+P00175,SKU-000175,Facere Furniture,Home,Furniture,Rhodes Group,43.42,32.27,True
+P00176,SKU-000176,Quos Skincare,Beauty,Skincare,Jackson Ltd,33.68,27.05,True
+P00177,SKU-000177,Maxime Footwear,Clothing,Footwear,Thomson-Wood,250.0,207.03,True
+P00178,SKU-000178,Ipsam Skincare,Beauty,Skincare,Pearson-Lamb,29.13,16.11,True
+P00179,SKU-000179,Libero Menswear,Clothing,Menswear,Fitzgerald LLC,49.63,30.83,True
+P00180,SKU-000180,Quia Bedding,Home,Bedding,"Young, Bell and Mills",43.95,25.28,True
+P00181,SKU-000181,Corporis Smart Home,Electronics,Smart Home,O'Sullivan PLC,179.2,148.2,True
+P00182,SKU-000182,Pariatur Snacks,Grocery,Snacks,Gould LLC,14.98,11.59,True
+P00183,SKU-000183,Corporis Snacks,Grocery,Snacks,Green PLC,5.58,3.35,True
+P00184,SKU-000184,Ducimus Skincare,Beauty,Skincare,"Yates, Haynes and Baker",21.92,15.36,True
+P00185,SKU-000185,Blanditiis Footwear,Clothing,Footwear,"O'Sullivan, Andrews and Smith",43.87,31.39,True
+P00186,SKU-000186,Reiciendis Haircare,Beauty,Haircare,"Mills, O'Brien and Read",12.97,9.46,True
+P00187,SKU-000187,Nemo Running,Sports,Running,Curtis-Foster,95.93,60.55,True
+P00188,SKU-000188,Quae Haircare,Beauty,Haircare,Harrison Ltd,58.88,27.75,True
+P00189,SKU-000189,Cupiditate Fitness,Sports,Fitness,Evans-Martin,17.8,10.65,True
+P00190,SKU-000190,At Running,Sports,Running,"Clark, Thomas and Potts",83.42,55.05,True
+P00191,SKU-000191,Reprehenderit Ambient Foods,Grocery,Ambient Foods,Price Group,1.81,1.34,True
+P00192,SKU-000192,Sapiente Fragrance,Beauty,Fragrance,Walker Group,61.7,50.14,True
+P00193,SKU-000193,Tempore Fresh Produce,Grocery,Fresh Produce,"Thomas, Barry and Smith",5.08,3.67,True
+P00194,SKU-000194,Molestias Snacks,Grocery,Snacks,"Bryant, Green and Hicks",4.41,2.42,True
+P00195,SKU-000195,Eius Headphones,Electronics,Headphones,Turner-Williams,97.54,65.99,True
+P00196,SKU-000196,Deserunt Sportswear,Sports,Sportswear,Matthews-Singh,68.7,47.03,True
+P00197,SKU-000197,Cupiditate Lighting,Home,Lighting,Moore-Knight,216.59,132.43,True
+P00198,SKU-000198,Odio Fragrance,Beauty,Fragrance,Wright Group,63.65,41.66,True
+P00199,SKU-000199,Tempore Accessories,Clothing,Accessories,Stone-Dobson,33.24,20.08,True
+P00200,SKU-000200,Recusandae Kitchen,Home,Kitchen,"Smith, Ashton and Bryan",194.27,137.15,True
+P00201,SKU-000201,Quod Haircare,Beauty,Haircare,"Allen, Richardson and Wright",30.28,14.53,True
+P00202,SKU-000202,Iste Accessories,Clothing,Accessories,"Smith, Mitchell and Hall",23.52,13.07,True
+P00203,SKU-000203,Voluptate Smart Home,Electronics,Smart Home,Lynch-Frost,259.67,179.91,True
+P00204,SKU-000204,Tempore Ambient Foods,Grocery,Ambient Foods,"Turner, Mann and Warren",5.47,3.93,True
+P00205,SKU-000205,Error Furniture,Home,Furniture,"Martin, Rees and Greenwood",103.07,58.83,True
+P00206,SKU-000206,Impedit Furniture,Home,Furniture,Moore-Taylor,36.91,29.85,True
+P00207,SKU-000207,Molestias Footwear,Clothing,Footwear,Smith-Bennett,185.86,148.06,True
+P00208,SKU-000208,Consequuntur Drinks,Grocery,Drinks,Taylor-Brooks,4.25,2.45,True
+P00209,SKU-000209,Eos Cosmetics,Beauty,Cosmetics,Cook-Sutton,26.77,16.68,True
+P00210,SKU-000210,Rem Fitness,Sports,Fitness,Knowles Ltd,62.37,50.47,True
+P00211,SKU-000211,Architecto Kitchen,Home,Kitchen,"Oliver, Taylor and Hammond",16.73,11.23,True
+P00212,SKU-000212,Ipsam Ambient Foods,Grocery,Ambient Foods,Williams-Campbell,10.81,5.68,True
+P00213,SKU-000213,Praesentium Menswear,Clothing,Menswear,Gray-Edwards,18.28,11.3,True
+P00214,SKU-000214,Nemo Kitchen,Home,Kitchen,Parker-Jones,132.21,72.76,True
+P00215,SKU-000215,Tempore Cosmetics,Beauty,Cosmetics,Carr LLC,17.95,8.33,True
+P00216,SKU-000216,Illo Womenswear,Clothing,Womenswear,"Williams, Richards and Fox",22.89,10.37,True
+P00217,SKU-000217,Quisquam Drinks,Grocery,Drinks,Foster-King,18.71,14.92,True
+P00218,SKU-000218,Quos Bedding,Home,Bedding,Jones PLC,220.14,147.11,True
+P00219,SKU-000219,Sapiente Fresh Produce,Grocery,Fresh Produce,"Sanders, Wallace and Hussain",25.61,14.14,True
+P00220,SKU-000220,Autem Kitchen,Home,Kitchen,Ryan-Dawson,11.29,7.62,True
+P00221,SKU-000221,Totam Furniture,Home,Furniture,Reid-Miller,98.25,48.86,True
+P00222,SKU-000222,Quam Lighting,Home,Lighting,Hill and Sons,109.63,87.99,True
+P00223,SKU-000223,Nihil Accessories,Electronics,Accessories,Martin Group,137.14,90.96,True
+P00224,SKU-000224,Dicta Laptops,Electronics,Laptops,Williams-Hunter,107.57,87.16,True
+P00225,SKU-000225,Laborum Menswear,Clothing,Menswear,Watts LLC,15.47,8.5,True
+P00226,SKU-000226,Corporis Cosmetics,Beauty,Cosmetics,Hodgson-Hughes,5.98,4.34,True
+P00227,SKU-000227,Rerum Headphones,Electronics,Headphones,Tyler and Sons,505.05,368.96,True
+P00228,SKU-000228,Illum Smart Home,Electronics,Smart Home,Thompson-Lewis,280.27,189.82,True
+P00229,SKU-000229,Sint Accessories,Electronics,Accessories,King-Reynolds,525.9,424.28,True
+P00230,SKU-000230,Culpa Accessories,Clothing,Accessories,"Jones, Fuller and Frost",26.66,14.55,True
+P00231,SKU-000231,Quam Snacks,Grocery,Snacks,Barnes-Thompson,5.39,3.49,True
+P00232,SKU-000232,Doloremque Laptops,Electronics,Laptops,Ward-Russell,247.0,124.2,True
+P00233,SKU-000233,Quisquam Cosmetics,Beauty,Cosmetics,"Atkinson, Reid and Johnson",11.31,8.86,True
+P00234,SKU-000234,Neque Menswear,Clothing,Menswear,Walker-McCarthy,56.87,46.87,True
+P00235,SKU-000235,Recusandae Headphones,Electronics,Headphones,Matthews-Pearce,627.2,452.52,True
+P00236,SKU-000236,Corporis Laptops,Electronics,Laptops,Birch-Fowler,164.45,87.13,True
+P00237,SKU-000237,Repellendus Bedding,Home,Bedding,Hall and Sons,294.07,208.83,True
+P00238,SKU-000238,Sequi Fragrance,Beauty,Fragrance,"Fry, Hicks and Brown",9.51,7.31,True
+P00239,SKU-000239,Est Haircare,Beauty,Haircare,Lowe-Mitchell,105.61,65.29,True
+P00240,SKU-000240,Numquam Drinks,Grocery,Drinks,Moore and Sons,8.39,3.78,True
+P00241,SKU-000241,Reprehenderit Snacks,Grocery,Snacks,"Davies, Saunders and George",6.31,3.23,True
+P00242,SKU-000242,Illo Haircare,Beauty,Haircare,Gill Ltd,38.75,27.07,True
+P00243,SKU-000243,Quibusdam Menswear,Clothing,Menswear,Price LLC,32.01,17.13,True
+P00244,SKU-000244,Ratione Footwear,Clothing,Footwear,Ahmed and Sons,23.77,18.14,True
+P00245,SKU-000245,Sint Laptops,Electronics,Laptops,Taylor-Hooper,180.13,116.6,True
+P00246,SKU-000246,Eligendi Sportswear,Sports,Sportswear,Foster Inc,38.1,31.63,True
+P00247,SKU-000247,Sit Menswear,Clothing,Menswear,"Pearson, Poole and Jones",12.7,10.77,True
+P00248,SKU-000248,Unde Ambient Foods,Grocery,Ambient Foods,"Moore, Jones and King",2.01,1.27,True
+P00249,SKU-000249,Dolore Running,Sports,Running,Allan Group,14.3,11.17,True
+P00250,SKU-000250,Cumque Accessories,Electronics,Accessories,Kelly-Jones,371.95,240.68,True
+P00251,SKU-000251,Blanditiis Headphones,Electronics,Headphones,Curtis-Phillips,264.72,127.83,True
+P00252,SKU-000252,Eaque Running,Sports,Running,"Johnson, Chamberlain and Mason",59.62,46.11,True
+P00253,SKU-000253,Earum Snacks,Grocery,Snacks,Miller-Atkins,3.77,2.75,True
+P00254,SKU-000254,Nihil Bedding,Home,Bedding,Jones PLC,43.94,28.46,True
+P00255,SKU-000255,Ratione Fresh Produce,Grocery,Fresh Produce,Powell-Webb,11.24,5.77,True
+P00256,SKU-000256,Laborum Womenswear,Clothing,Womenswear,Jenkins Inc,27.77,14.2,True
+P00257,SKU-000257,Aut Fitness,Sports,Fitness,Smith-Reed,74.74,34.39,True
+P00258,SKU-000258,Itaque Televisions,Electronics,Televisions,Walker-Allan,127.64,68.72,True
+P00259,SKU-000259,Pariatur Lighting,Home,Lighting,"Norris, Burke and Webb",33.91,17.26,True
+P00260,SKU-000260,Officiis Fitness,Sports,Fitness,Stanley-Harper,93.27,45.35,True
+P00261,SKU-000261,Necessitatibus Skincare,Beauty,Skincare,Garner-Pearson,18.63,10.0,True
+P00262,SKU-000262,Perferendis Laptops,Electronics,Laptops,"Smith, Robertson and Lewis",295.62,152.36,True
+P00263,SKU-000263,Quaerat Drinks,Grocery,Drinks,Jones LLC,5.69,4.63,True
+P00264,SKU-000264,Hic Ambient Foods,Grocery,Ambient Foods,Jones Inc,3.83,1.86,True
+P00265,SKU-000265,Beatae Snacks,Grocery,Snacks,Shaw Ltd,16.77,11.6,True
+P00266,SKU-000266,Ea Accessories,Clothing,Accessories,Hunt Ltd,48.06,23.9,True
+P00267,SKU-000267,Dicta Skincare,Beauty,Skincare,Smith-Fisher,11.83,8.55,True
+P00268,SKU-000268,Iusto Lighting,Home,Lighting,Wilkinson LLC,27.88,23.11,True
+P00269,SKU-000269,Deleniti Accessories,Clothing,Accessories,Harris-Hancock,66.84,39.71,True
+P00270,SKU-000270,Alias Accessories,Clothing,Accessories,"White, Moss and Ward",42.23,32.29,True
+P00271,SKU-000271,Corrupti Outdoor,Sports,Outdoor,Howarth-Austin,66.76,44.48,True
+P00272,SKU-000272,Incidunt Furniture,Home,Furniture,Parkinson-Roberts,42.94,28.82,True
+P00273,SKU-000273,Commodi Sportswear,Sports,Sportswear,Cox Ltd,41.03,29.6,True
+P00274,SKU-000274,Nulla Kitchen,Home,Kitchen,"Marsh, Thompson and Moore",30.33,16.62,True
+P00275,SKU-000275,Veniam Haircare,Beauty,Haircare,Webb PLC,7.22,4.13,True
+P00276,SKU-000276,Temporibus Footwear,Clothing,Footwear,Buckley Group,16.22,11.21,True
+P00277,SKU-000277,Fuga Fresh Produce,Grocery,Fresh Produce,"Green, Sanders and Begum",2.06,1.08,True
+P00278,SKU-000278,Assumenda Furniture,Home,Furniture,Hill PLC,42.79,27.15,True
+P00279,SKU-000279,Quia Sportswear,Sports,Sportswear,Hayes LLC,76.14,55.78,True
+P00280,SKU-000280,Consectetur Sportswear,Sports,Sportswear,"Edwards, Watkins and Holland",69.27,47.92,True
+P00281,SKU-000281,Tempore Fitness,Sports,Fitness,Wood Ltd,67.51,33.96,True
+P00282,SKU-000282,Ipsum Accessories,Electronics,Accessories,Noble-King,179.58,137.59,True
+P00283,SKU-000283,Animi Menswear,Clothing,Menswear,Jones Inc,35.94,17.64,True
+P00284,SKU-000284,Molestiae Fitness,Sports,Fitness,Patel-Jackson,28.82,16.89,True
+P00285,SKU-000285,Perspiciatis Fresh Produce,Grocery,Fresh Produce,Harvey-Holmes,8.96,4.42,True
+P00286,SKU-000286,Eius Haircare,Beauty,Haircare,Cole PLC,33.55,27.55,True
+P00287,SKU-000287,Earum Footwear,Clothing,Footwear,Johnson Ltd,41.18,27.75,True
+P00288,SKU-000288,Fugit Snacks,Grocery,Snacks,Ward-Kirk,4.56,2.97,True
+P00289,SKU-000289,Veritatis Sportswear,Sports,Sportswear,Adams Group,52.43,36.09,True
+P00290,SKU-000290,Non Lighting,Home,Lighting,"Bird, Stephenson and Hunter",150.34,117.39,True
+P00291,SKU-000291,Laudantium Bedding,Home,Bedding,"Chapman, Begum and Davies",90.05,48.66,True
+P00292,SKU-000292,Consequatur Footwear,Clothing,Footwear,"Hill, Akhtar and Moore",26.14,12.2,True
+P00293,SKU-000293,Occaecati Fragrance,Beauty,Fragrance,Douglas Group,86.95,52.96,True
+P00294,SKU-000294,Atque Drinks,Grocery,Drinks,"Fraser, Hughes and Stewart",7.46,4.67,True
+P00295,SKU-000295,Deserunt Skincare,Beauty,Skincare,Parker-Brown,16.7,7.82,True
+P00296,SKU-000296,Veritatis Outdoor,Sports,Outdoor,"Riley, Morgan and Austin",36.77,21.35,True
+P00297,SKU-000297,Animi Menswear,Clothing,Menswear,Cook Ltd,22.33,10.74,True
+P00298,SKU-000298,Cumque Haircare,Beauty,Haircare,"Newman, Spencer and Smith",23.5,11.17,True
+P00299,SKU-000299,Maxime Snacks,Grocery,Snacks,Abbott Group,5.46,3.02,True
+P00300,SKU-000300,Rem Ambient Foods,Grocery,Ambient Foods,Ball Group,1.57,1.0,True
+P00301,SKU-000301,Non Lighting,Home,Lighting,Atkinson-Whitehead,87.37,72.16,True
+P00302,SKU-000302,Distinctio Cosmetics,Beauty,Cosmetics,Watson-Allen,23.46,12.91,True
+P00303,SKU-000303,Ipsum Accessories,Clothing,Accessories,Morris PLC,61.33,51.09,True
+P00304,SKU-000304,Dignissimos Bedding,Home,Bedding,Wright LLC,25.63,11.83,True
+P00305,SKU-000305,Possimus Accessories,Electronics,Accessories,Sykes-Brown,272.27,147.33,True
+P00306,SKU-000306,Adipisci Smart Home,Electronics,Smart Home,"Bray, Moore and Lambert",488.15,356.37,True
+P00307,SKU-000307,Perferendis Skincare,Beauty,Skincare,"Harrison, Patel and Jackson",17.65,10.97,True
+P00308,SKU-000308,Natus Bedding,Home,Bedding,Mitchell Group,77.88,55.36,True
+P00309,SKU-000309,Deserunt Running,Sports,Running,"Smith, Taylor and Ellis",6.88,4.01,True
+P00310,SKU-000310,Optio Fitness,Sports,Fitness,Robinson and Sons,141.74,83.12,True
+P00311,SKU-000311,Magnam Haircare,Beauty,Haircare,"Smith, Parker and Barnes",24.88,12.92,True
+P00312,SKU-000312,Autem Haircare,Beauty,Haircare,Warren-Phillips,13.75,7.33,True
+P00313,SKU-000313,Harum Furniture,Home,Furniture,"Douglas, King and Norris",137.87,71.61,True
+P00314,SKU-000314,Laborum Accessories,Clothing,Accessories,Thompson Ltd,20.91,11.28,True
+P00315,SKU-000315,Adipisci Outdoor,Sports,Outdoor,Parkes-Townsend,198.86,109.89,True
+P00316,SKU-000316,Aliquid Snacks,Grocery,Snacks,"Chapman, Dickinson and Charlton",5.74,2.75,True
+P00317,SKU-000317,Ut Cosmetics,Beauty,Cosmetics,"Goodwin, Garner and Robertson",15.8,11.14,True
+P00318,SKU-000318,Maxime Sportswear,Sports,Sportswear,Shaw-Edwards,131.4,90.73,True
+P00319,SKU-000319,Necessitatibus Fitness,Sports,Fitness,Coleman-Clark,66.0,43.49,True
+P00320,SKU-000320,Quibusdam Headphones,Electronics,Headphones,Dawson Inc,104.67,64.67,True
+P00321,SKU-000321,Eveniet Cosmetics,Beauty,Cosmetics,Wood-Matthews,30.23,23.03,True
+P00322,SKU-000322,Minus Drinks,Grocery,Drinks,"Thomas, Bailey and James",7.1,3.93,True
+P00323,SKU-000323,Esse Laptops,Electronics,Laptops,Archer and Sons,114.01,58.88,True
+P00324,SKU-000324,Maxime Accessories,Clothing,Accessories,Burton-Wilson,62.48,32.37,True
+P00325,SKU-000325,Sed Fitness,Sports,Fitness,Carter Inc,56.62,43.66,True
+P00326,SKU-000326,Autem Drinks,Grocery,Drinks,"White, Lee and Cole",8.22,5.95,True
+P00327,SKU-000327,Voluptatibus Headphones,Electronics,Headphones,Robinson-Tucker,148.99,124.01,True
+P00328,SKU-000328,Molestiae Ambient Foods,Grocery,Ambient Foods,Pugh LLC,3.74,2.5,True
+P00329,SKU-000329,Nemo Womenswear,Clothing,Womenswear,Robertson-Morris,13.99,9.63,True
+P00330,SKU-000330,Culpa Bedding,Home,Bedding,"Cooke, Robinson and Taylor",79.19,40.12,True
+P00331,SKU-000331,Hic Headphones,Electronics,Headphones,"Harrison, Smith and Walsh",267.73,206.1,True
+P00332,SKU-000332,Delectus Fitness,Sports,Fitness,"Lawrence, Griffin and Ross",138.73,117.32,True
+P00333,SKU-000333,Quo Outdoor,Sports,Outdoor,Scott-Patel,62.99,41.61,True
+P00334,SKU-000334,Velit Snacks,Grocery,Snacks,"Watkins, Wilson and Jones",5.29,3.62,True
+P00335,SKU-000335,Ducimus Womenswear,Clothing,Womenswear,Smith PLC,11.65,9.56,True
+P00336,SKU-000336,Veniam Smart Home,Electronics,Smart Home,Fowler-Pearson,114.54,56.64,True
+P00337,SKU-000337,Natus Headphones,Electronics,Headphones,Greenwood Ltd,727.64,557.25,True
+P00338,SKU-000338,Nulla Skincare,Beauty,Skincare,Sims Inc,86.79,70.82,True
+P00339,SKU-000339,Officiis Fragrance,Beauty,Fragrance,Pugh PLC,16.92,9.83,True
+P00340,SKU-000340,Voluptas Outdoor,Sports,Outdoor,"Jones, Owen and Potter",23.78,12.84,True
+P00341,SKU-000341,Quam Furniture,Home,Furniture,Singh and Sons,169.12,115.24,True
+P00342,SKU-000342,In Running,Sports,Running,King Group,40.4,30.69,True
+P00343,SKU-000343,Quas Smart Home,Electronics,Smart Home,Smith LLC,776.16,439.91,True
+P00344,SKU-000344,Nulla Sportswear,Sports,Sportswear,"Jones, Lee and Walker",253.98,161.15,True
+P00345,SKU-000345,Earum Accessories,Electronics,Accessories,Robson-Davies,245.08,121.5,True
+P00346,SKU-000346,Minus Kitchen,Home,Kitchen,Ellis-Duncan,56.66,46.5,True
+P00347,SKU-000347,Accusantium Haircare,Beauty,Haircare,Burgess-Simpson,51.33,23.94,True
+P00348,SKU-000348,Ex Headphones,Electronics,Headphones,Stevens Inc,413.24,292.98,True
+P00349,SKU-000349,Repellat Skincare,Beauty,Skincare,"Humphreys, Scott and Price",29.3,19.33,True
+P00350,SKU-000350,Quis Fresh Produce,Grocery,Fresh Produce,"Smith, Gallagher and Martin",4.85,3.43,True
+P00351,SKU-000351,Ex Fragrance,Beauty,Fragrance,Webb and Sons,78.19,56.38,True
+P00352,SKU-000352,Unde Laptops,Electronics,Laptops,Turner-Thomas,89.29,61.44,True
+P00353,SKU-000353,Ducimus Ambient Foods,Grocery,Ambient Foods,Walton LLC,3.4,1.82,True
+P00354,SKU-000354,Veritatis Fragrance,Beauty,Fragrance,Johnson PLC,15.55,12.87,True
+P00355,SKU-000355,Possimus Womenswear,Clothing,Womenswear,"Kirk, Baker and Stevens",5.97,3.86,True
+P00356,SKU-000356,Quis Fragrance,Beauty,Fragrance,Robson-Leach,16.53,7.81,True
+P00357,SKU-000357,Doloribus Womenswear,Clothing,Womenswear,Murray-Roberts,36.12,23.91,True
+P00358,SKU-000358,Omnis Televisions,Electronics,Televisions,Metcalfe LLC,163.93,131.91,True
+P00359,SKU-000359,Recusandae Outdoor,Sports,Outdoor,"Smith, Foster and Francis",33.0,27.88,True
+P00360,SKU-000360,Recusandae Ambient Foods,Grocery,Ambient Foods,Jones LLC,4.76,2.4,True
+P00361,SKU-000361,Pariatur Lighting,Home,Lighting,Dunn Group,56.78,40.71,True
+P00362,SKU-000362,Qui Sportswear,Sports,Sportswear,Slater-Evans,11.63,8.32,True
+P00363,SKU-000363,Quisquam Bedding,Home,Bedding,"Clarke, Jones and Wilkinson",104.3,76.57,True
+P00364,SKU-000364,Harum Accessories,Electronics,Accessories,Hutchinson LLC,160.06,134.42,True
+P00365,SKU-000365,Architecto Footwear,Clothing,Footwear,"Yates, Green and O'Donnell",35.17,20.64,True
+P00366,SKU-000366,Quo Menswear,Clothing,Menswear,Andrews Group,34.07,27.5,True
+P00367,SKU-000367,Ex Snacks,Grocery,Snacks,"Jones, Davies and Hamilton",7.66,5.59,True
+P00368,SKU-000368,Corrupti Fresh Produce,Grocery,Fresh Produce,Thomas LLC,1.77,0.97,True
+P00369,SKU-000369,Rerum Snacks,Grocery,Snacks,Banks-Gough,2.22,1.12,True
+P00370,SKU-000370,Officiis Furniture,Home,Furniture,"Peacock, Carter and Shah",60.8,51.39,True
+P00371,SKU-000371,Enim Furniture,Home,Furniture,Cook-Harris,117.99,95.37,True
+P00372,SKU-000372,Sequi Fitness,Sports,Fitness,Begum Group,90.41,58.48,True
+P00373,SKU-000373,Recusandae Fragrance,Beauty,Fragrance,Marshall-Taylor,15.15,9.5,True
+P00374,SKU-000374,Nihil Furniture,Home,Furniture,"Howell, Booth and Ward",24.89,19.75,True
+P00375,SKU-000375,Inventore Televisions,Electronics,Televisions,Hughes LLC,258.31,164.7,True
+P00376,SKU-000376,Quisquam Fitness,Sports,Fitness,Saunders-Lewis,31.25,24.67,True
+P00377,SKU-000377,Temporibus Menswear,Clothing,Menswear,"Weston, Payne and Henderson",18.12,8.59,True
+P00378,SKU-000378,Earum Snacks,Grocery,Snacks,Hawkins-Owen,6.5,5.45,True
+P00379,SKU-000379,Voluptas Fresh Produce,Grocery,Fresh Produce,"Smith, Booth and Herbert",10.14,5.67,True
+P00380,SKU-000380,Impedit Drinks,Grocery,Drinks,Lee Group,2.62,1.4,True
+P00381,SKU-000381,Magnam Haircare,Beauty,Haircare,"Allen, Hawkins and Bell",17.16,8.74,True
+P00382,SKU-000382,Magnam Fresh Produce,Grocery,Fresh Produce,Evans-Taylor,14.38,7.91,True
+P00383,SKU-000383,Ut Smart Home,Electronics,Smart Home,"Hudson, Curtis and Fraser",53.09,40.87,True
+P00384,SKU-000384,Non Fragrance,Beauty,Fragrance,Cook Ltd,19.58,13.72,True
+P00385,SKU-000385,Error Fitness,Sports,Fitness,"Begum, Newman and Lloyd",29.54,19.41,True
+P00386,SKU-000386,Veniam Accessories,Electronics,Accessories,Pearce-Skinner,158.79,122.46,True
+P00387,SKU-000387,Voluptate Fresh Produce,Grocery,Fresh Produce,Burns-Black,29.11,18.34,True
+P00388,SKU-000388,Odit Bedding,Home,Bedding,"Jones, White and Martin",97.08,64.72,True
+P00389,SKU-000389,Accusamus Laptops,Electronics,Laptops,Hart Inc,128.77,90.04,True
+P00390,SKU-000390,Reprehenderit Smart Home,Electronics,Smart Home,Ward LLC,168.01,81.48,True
+P00391,SKU-000391,Nihil Drinks,Grocery,Drinks,Rowe-Wood,1.49,0.85,True
+P00392,SKU-000392,Doloribus Drinks,Grocery,Drinks,Jackson-Whittaker,3.69,2.21,True
+P00393,SKU-000393,Iste Cosmetics,Beauty,Cosmetics,Miles Group,32.24,18.75,True
+P00394,SKU-000394,Asperiores Accessories,Electronics,Accessories,"Ellis, Hudson and Stokes",252.9,161.53,True
+P00395,SKU-000395,Cumque Lighting,Home,Lighting,Allen-Anderson,38.23,20.31,True
+P00396,SKU-000396,Eum Lighting,Home,Lighting,Holmes-Bray,64.07,46.18,True
+P00397,SKU-000397,Id Laptops,Electronics,Laptops,Simpson-McDonald,651.31,354.23,True
+P00398,SKU-000398,Ad Laptops,Electronics,Laptops,Murphy-Taylor,35.0,17.06,True
+P00399,SKU-000399,Aut Televisions,Electronics,Televisions,Carter-Murray,102.36,51.25,True
+P00400,SKU-000400,Officia Fresh Produce,Grocery,Fresh Produce,Harris LLC,13.24,10.84,True
+P00401,SKU-000401,Quas Menswear,Clothing,Menswear,"Stevens, Owens and Walters",27.0,16.01,True
+P00402,SKU-000402,Officia Laptops,Electronics,Laptops,"Brown, Hobbs and Edwards",161.78,121.1,True
+P00403,SKU-000403,Libero Menswear,Clothing,Menswear,Davies LLC,15.53,11.44,True
+P00404,SKU-000404,Non Haircare,Beauty,Haircare,"Richards, Harding and O'Brien",27.58,13.61,True
+P00405,SKU-000405,Aperiam Cosmetics,Beauty,Cosmetics,Jenkins Group,14.25,6.68,True
+P00406,SKU-000406,Distinctio Fresh Produce,Grocery,Fresh Produce,"Harding, Burgess and Anderson",4.07,2.52,True
+P00407,SKU-000407,Distinctio Lighting,Home,Lighting,Hopkins PLC,105.91,49.7,True
+P00408,SKU-000408,Sit Running,Sports,Running,White-O'Brien,24.13,17.44,True
+P00409,SKU-000409,Voluptatum Furniture,Home,Furniture,Fowler LLC,41.04,18.76,True
+P00410,SKU-000410,Fuga Lighting,Home,Lighting,"White, Barton and Turner",81.81,59.02,True
+P00411,SKU-000411,Itaque Cosmetics,Beauty,Cosmetics,Hall-Cox,59.06,37.96,True
+P00412,SKU-000412,Vero Televisions,Electronics,Televisions,Singh Group,189.39,112.22,True
+P00413,SKU-000413,Delectus Accessories,Clothing,Accessories,Parker Inc,38.2,17.24,True
+P00414,SKU-000414,Suscipit Drinks,Grocery,Drinks,"Simpson, Rowe and Williams",2.03,1.28,True
+P00415,SKU-000415,Animi Skincare,Beauty,Skincare,"Harris, Allen and Cooper",80.86,44.31,True
+P00416,SKU-000416,Mollitia Haircare,Beauty,Haircare,"Evans, Hughes and Kelly",12.01,7.42,True
+P00417,SKU-000417,Distinctio Lighting,Home,Lighting,Woods LLC,15.7,8.88,True
+P00418,SKU-000418,Praesentium Snacks,Grocery,Snacks,Jackson-Smart,5.9,4.5,True
+P00419,SKU-000419,Velit Bedding,Home,Bedding,Potter-Woods,137.94,68.04,True
+P00420,SKU-000420,Eaque Bedding,Home,Bedding,"Holmes, Davies and Ross",214.3,177.87,True
+P00421,SKU-000421,Eius Kitchen,Home,Kitchen,Hartley Ltd,65.54,33.36,True
+P00422,SKU-000422,Neque Fragrance,Beauty,Fragrance,Hayward Ltd,32.08,20.16,True
+P00423,SKU-000423,Nulla Accessories,Clothing,Accessories,Savage Group,12.94,6.8,True
+P00424,SKU-000424,Nisi Accessories,Clothing,Accessories,"Lewis, Khan and Cunningham",14.45,10.29,True
+P00425,SKU-000425,Sit Laptops,Electronics,Laptops,Hunter-Hart,130.76,87.07,True
+P00426,SKU-000426,Culpa Smart Home,Electronics,Smart Home,Kelly-Gibbs,266.35,193.71,True
+P00427,SKU-000427,Eum Laptops,Electronics,Laptops,"Smith, Bond and Short",482.77,403.65,True
+P00428,SKU-000428,Quis Ambient Foods,Grocery,Ambient Foods,Miller Inc,4.39,2.37,True
+P00429,SKU-000429,Consectetur Bedding,Home,Bedding,Knowles Group,236.4,157.86,True
+P00430,SKU-000430,Ut Drinks,Grocery,Drinks,Peters-Cook,2.18,1.39,True
+P00431,SKU-000431,Quis Drinks,Grocery,Drinks,"Gilbert, Wright and Price",6.53,4.25,True
+P00432,SKU-000432,Reiciendis Accessories,Clothing,Accessories,"Walker, Rice and Bryan",18.77,13.47,True
+P00433,SKU-000433,In Fitness,Sports,Fitness,"Thompson, Chapman and Powell",59.56,28.22,True
+P00434,SKU-000434,Adipisci Kitchen,Home,Kitchen,Powell PLC,77.39,58.56,True
+P00435,SKU-000435,Maiores Menswear,Clothing,Menswear,"Jones, Davey and Hughes",5.0,3.45,True
+P00436,SKU-000436,Est Skincare,Beauty,Skincare,Parkes-Brown,19.33,12.24,True
+P00437,SKU-000437,Quis Haircare,Beauty,Haircare,"O'Connor, Pickering and Butler",4.71,3.59,True
+P00438,SKU-000438,Molestias Bedding,Home,Bedding,"Atkins, Ford and Andrews",272.27,199.97,True
+P00439,SKU-000439,Aliquam Womenswear,Clothing,Womenswear,Ross-Taylor,64.09,52.22,True
+P00440,SKU-000440,Unde Kitchen,Home,Kitchen,"Brown, Ali and Adams",66.33,54.37,True
+P00441,SKU-000441,Consequatur Womenswear,Clothing,Womenswear,Taylor Inc,25.22,14.32,True
+P00442,SKU-000442,Delectus Snacks,Grocery,Snacks,"Hall, Hussain and Day",28.01,12.77,True
+P00443,SKU-000443,Ipsam Headphones,Electronics,Headphones,Ward-Jones,303.78,158.69,True
+P00444,SKU-000444,Nostrum Lighting,Home,Lighting,Iqbal LLC,107.33,62.41,True
+P00445,SKU-000445,Aliquam Fragrance,Beauty,Fragrance,Smart LLC,10.77,7.97,True
+P00446,SKU-000446,Voluptate Fresh Produce,Grocery,Fresh Produce,Thomson-Bailey,8.0,4.18,True
+P00447,SKU-000447,Nulla Drinks,Grocery,Drinks,Rowe-Griffin,10.0,7.38,True
+P00448,SKU-000448,Sequi Ambient Foods,Grocery,Ambient Foods,Davies and Sons,3.08,2.32,True
+P00449,SKU-000449,Excepturi Furniture,Home,Furniture,"Humphreys, Lane and Palmer",172.67,86.86,True
+P00450,SKU-000450,Commodi Fragrance,Beauty,Fragrance,"Thomas, Duncan and Rees",34.7,26.89,True
+P00451,SKU-000451,Itaque Fragrance,Beauty,Fragrance,Hudson-Reed,16.47,11.53,True
+P00452,SKU-000452,Omnis Ambient Foods,Grocery,Ambient Foods,"Williams, Bailey and Francis",6.84,4.89,True
+P00453,SKU-000453,Animi Haircare,Beauty,Haircare,"Booth, Gray and Miller",40.08,30.67,True
+P00454,SKU-000454,Illo Accessories,Electronics,Accessories,Morris-Wheeler,322.21,187.0,True
+P00455,SKU-000455,Harum Televisions,Electronics,Televisions,"Jordan, Scott and Dixon",129.56,69.22,True
+P00456,SKU-000456,Nam Haircare,Beauty,Haircare,Johnson-Henderson,17.97,9.61,True
+P00457,SKU-000457,Molestias Snacks,Grocery,Snacks,"Wood, Hussain and Evans",2.79,2.32,True
+P00458,SKU-000458,Aliquid Fresh Produce,Grocery,Fresh Produce,"Nash, Harris and Clarke",3.12,2.07,True
+P00459,SKU-000459,A Cosmetics,Beauty,Cosmetics,"Bird, Ellis and Harris",3.36,2.84,True
+P00460,SKU-000460,Excepturi Womenswear,Clothing,Womenswear,Patel-Bird,36.57,17.36,True
+P00461,SKU-000461,Reiciendis Bedding,Home,Bedding,Ward PLC,37.02,28.97,True
+P00462,SKU-000462,Repellendus Haircare,Beauty,Haircare,Gray-Hall,31.81,23.82,True
+P00463,SKU-000463,Vitae Accessories,Clothing,Accessories,Wright-Wright,11.68,7.36,True
+P00464,SKU-000464,Error Headphones,Electronics,Headphones,Rowley-Curtis,117.58,57.3,True
+P00465,SKU-000465,Voluptas Bedding,Home,Bedding,"Lowe, Hall and Russell",39.72,18.45,True
+P00466,SKU-000466,Quia Snacks,Grocery,Snacks,James-Morris,8.97,6.72,True
+P00467,SKU-000467,Laudantium Menswear,Clothing,Menswear,Buckley and Sons,11.04,7.98,True
+P00468,SKU-000468,A Womenswear,Clothing,Womenswear,"Murray, Wong and Griffin",26.01,12.98,True
+P00469,SKU-000469,Eaque Kitchen,Home,Kitchen,Taylor-Rose,49.65,30.74,True
+P00470,SKU-000470,Reprehenderit Fitness,Sports,Fitness,Clarke-Wilson,32.36,14.71,True
+P00471,SKU-000471,Modi Haircare,Beauty,Haircare,"Blake, Price and Bailey",16.07,11.53,True
+P00472,SKU-000472,Nostrum Womenswear,Clothing,Womenswear,"Smith, Davies and Edwards",55.15,40.01,True
+P00473,SKU-000473,Sequi Ambient Foods,Grocery,Ambient Foods,"Reynolds, Gray and Watts",5.29,2.5,True
+P00474,SKU-000474,Voluptatum Laptops,Electronics,Laptops,Lewis-O'Sullivan,299.38,137.85,True
+P00475,SKU-000475,Quidem Footwear,Clothing,Footwear,Poole-Hill,44.74,37.36,True
+P00476,SKU-000476,Est Furniture,Home,Furniture,Jarvis-Atkinson,33.13,20.87,True
+P00477,SKU-000477,Tempore Menswear,Clothing,Menswear,"Williams, French and Bailey",61.78,37.08,True
+P00478,SKU-000478,Doloribus Sportswear,Sports,Sportswear,Burns LLC,8.74,5.59,True
+P00479,SKU-000479,Nesciunt Womenswear,Clothing,Womenswear,"Smith, Dennis and Quinn",19.75,11.28,True
+P00480,SKU-000480,Non Cosmetics,Beauty,Cosmetics,Jackson-Lee,20.83,10.88,True
+P00481,SKU-000481,Eos Bedding,Home,Bedding,Sullivan Inc,20.21,9.68,True
+P00482,SKU-000482,Rerum Accessories,Clothing,Accessories,Walsh Group,70.51,33.06,True
+P00483,SKU-000483,Quasi Headphones,Electronics,Headphones,"Thompson, Jones and Young",247.94,154.94,True
+P00484,SKU-000484,Iste Menswear,Clothing,Menswear,Bradley-Cooke,51.48,37.6,True
+P00485,SKU-000485,Dignissimos Smart Home,Electronics,Smart Home,Bailey-Shah,227.21,191.79,True
+P00486,SKU-000486,Commodi Haircare,Beauty,Haircare,Ball PLC,17.96,11.35,True
+P00487,SKU-000487,Non Fragrance,Beauty,Fragrance,Cook-Johnson,12.16,7.13,True
+P00488,SKU-000488,Veritatis Footwear,Clothing,Footwear,Murphy-Jarvis,34.18,17.75,True
+P00489,SKU-000489,Sit Ambient Foods,Grocery,Ambient Foods,"Hyde, Griffiths and Benson",1.23,0.93,True
+P00490,SKU-000490,Illo Accessories,Electronics,Accessories,Nash-Rowe,166.29,138.06,True
+P00491,SKU-000491,Doloribus Laptops,Electronics,Laptops,George-Cooper,237.03,174.38,True
+P00492,SKU-000492,Doloribus Running,Sports,Running,"Ferguson, Heath and Butler",29.8,24.21,True
+P00493,SKU-000493,Architecto Furniture,Home,Furniture,"Cooper, Chapman and Lawson",59.68,27.88,True
+P00494,SKU-000494,Beatae Haircare,Beauty,Haircare,"John, O'Brien and Singh",39.61,23.94,True
+P00495,SKU-000495,Veritatis Menswear,Clothing,Menswear,Lewis-Booth,58.75,34.55,True
+P00496,SKU-000496,Cumque Kitchen,Home,Kitchen,Mitchell Inc,117.71,63.67,True
+P00497,SKU-000497,Impedit Running,Sports,Running,Payne PLC,101.53,55.82,True
+P00498,SKU-000498,Laborum Sportswear,Sports,Sportswear,Harris-Hartley,310.26,197.77,True
+P00499,SKU-000499,Dolores Headphones,Electronics,Headphones,McLean-Barber,86.58,42.9,True
+P00500,SKU-000500,Impedit Lighting,Home,Lighting,Hicks Group,31.98,22.84,True

@@ -1,0 +1,51 @@
+supplier_id,supplier_name,supplier_country,lead_time_days,reliability_score,minimum_order_qty,active_flag
+SUP0001,Rahman-Reed,Netherlands,18,0.967,50,True
+SUP0002,Roberts and Sons,Netherlands,14,0.955,20,True
+SUP0003,"Nash, Shaw and Walsh",Poland,14,0.947,100,True
+SUP0004,Green-Taylor,Italy,17,0.948,10,True
+SUP0005,James-Warren,France,4,0.858,50,True
+SUP0006,"Smith, Marsh and Powell",Italy,12,0.852,100,True
+SUP0007,Coates and Sons,Spain,23,0.822,10,True
+SUP0008,"Lee, Moss and Ahmed",France,14,0.883,100,True
+SUP0009,"Payne, Wilson and Summers",France,19,0.914,5,True
+SUP0010,"Akhtar, Holloway and Ingram",France,30,0.95,20,True
+SUP0011,Woodward-Johnson,Italy,24,0.81,5,True
+SUP0012,"Jones, Singh and Turner",Poland,28,0.926,20,True
+SUP0013,Johnson-Clarke,Ireland,22,0.804,20,True
+SUP0014,"Williams, Thomas and Wilson",Germany,6,0.872,100,True
+SUP0015,"Wright, Patterson and Atkinson",Netherlands,5,0.991,10,True
+SUP0016,Charlton Ltd,Italy,29,0.922,20,True
+SUP0017,"Robinson, Ingram and Porter",Ireland,4,0.858,50,True
+SUP0018,Hamilton Ltd,Netherlands,17,0.888,20,True
+SUP0019,Oliver-Armstrong,Poland,26,0.868,20,True
+SUP0020,Cross LLC,Spain,23,0.878,20,True
+SUP0021,Powell LLC,Spain,24,0.903,50,True
+SUP0022,"Reynolds, Shaw and Dodd",France,16,0.819,50,True
+SUP0023,Ingram Inc,Germany,25,0.938,50,True
+SUP0024,Anderson-Berry,France,23,0.912,20,True
+SUP0025,"Newman, White and Morgan",Italy,24,0.983,100,True
+SUP0026,Davis LLC,United Kingdom,4,0.845,5,True
+SUP0027,"Wells, Parsons and George",France,22,0.917,20,True
+SUP0028,"Doherty, Coleman and Rahman",Netherlands,3,0.981,50,True
+SUP0029,Griffiths-Hunter,Spain,6,0.9,20,True
+SUP0030,Patel-Atkinson,Ireland,11,0.96,100,True
+SUP0031,Bradley Ltd,Spain,21,0.958,50,True
+SUP0032,Bailey-Mitchell,Ireland,2,0.899,5,True
+SUP0033,"Edwards, Adams and Hewitt",Ireland,10,0.948,100,True
+SUP0034,"Thornton, McDonald and Harrison",Germany,6,0.907,50,True
+SUP0035,Wade PLC,Ireland,20,0.951,5,True
+SUP0036,Shaw PLC,United Kingdom,20,0.804,20,True
+SUP0037,"Clark, Walton and Simmons",Spain,28,0.809,100,True
+SUP0038,"Hussain, Baxter and Haynes",Netherlands,21,0.846,50,True
+SUP0039,"Birch, Warner and Howell",Spain,10,0.858,50,True
+SUP0040,Gregory LLC,Ireland,11,0.951,100,True
+SUP0041,Reynolds-Marshall,France,22,0.875,5,True
+SUP0042,"Holmes, Hayward and Hopkins",Italy,25,0.975,20,True
+SUP0043,"Griffiths, King and Patel",United Kingdom,2,0.829,5,True
+SUP0044,Law-Jarvis,Ireland,29,0.972,100,True
+SUP0045,Edwards-Phillips,Poland,7,0.847,10,True
+SUP0046,"Clark, Garner and Shah",Germany,5,0.844,100,True
+SUP0047,"Pope, Skinner and Griffin",Spain,23,0.949,50,True
+SUP0048,Mitchell and Sons,Spain,25,0.813,100,True
+SUP0049,Rogers Ltd,Germany,16,0.829,10,True
+SUP0050,Thomas PLC,Italy,18,0.945,50,True
