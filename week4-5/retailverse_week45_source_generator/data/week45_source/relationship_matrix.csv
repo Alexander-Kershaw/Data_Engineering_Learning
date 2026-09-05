@@ -1,0 +1,17 @@
+child_entity,child_column,parent_entity,parent_column,relationship_type
+address,customer_id,customer,customer_id,many-to-one
+category,parent_category_id,category,category_id,self-reference
+product_category,product_id,product,product_id,many-to-one
+product_category,category_id,category,category_id,many-to-one
+order,customer_id,customer,customer_id,many-to-one
+order,billing_address_id,address,address_id,many-to-one
+order,shipping_address_id,address,address_id,many-to-one
+order_item,order_id,order,order_id,many-to-one
+order_item,product_id,product,product_id,many-to-one
+payment,order_id,order,order_id,many-to-one
+payment,customer_id,customer,customer_id,many-to-one
+return,order_id,order,order_id,many-to-one
+return,customer_id,customer,customer_id,many-to-one
+return_item,return_id,return,return_id,many-to-one
+return_item,order_item_id,order_item,order_item_id,many-to-one
+return_item,product_id,product,product_id,many-to-one

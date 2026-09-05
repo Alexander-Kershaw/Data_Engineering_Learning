@@ -1,0 +1,125 @@
+batch_id,entity,source_record_id,business_key,defect_code,severity,expected_action,description
+B001,customer,DEF_CUSTOMER_DUP_B001_001,C0026861,CUST_DUPLICATE_BUSINESS_KEY,HARD,DEDUPLICATE,Duplicate customer_id with a distinct physical source record.
+B001,customer,DEF_CUSTOMER_DUP_B001_002,C0001373,CUST_DUPLICATE_BUSINESS_KEY,HARD,DEDUPLICATE,Duplicate customer_id with a distinct physical source record.
+B001,customer,DEF_CUSTOMER_DUP_B001_003,C0022970,CUST_DUPLICATE_BUSINESS_KEY,HARD,DEDUPLICATE,Duplicate customer_id with a distinct physical source record.
+B001,customer,DEF_CUSTOMER_DUP_B001_004,C0049578,CUST_DUPLICATE_BUSINESS_KEY,HARD,DEDUPLICATE,Duplicate customer_id with a distinct physical source record.
+B001,customer,DEF_CUSTOMER_DUP_B001_005,C0035498,CUST_DUPLICATE_BUSINESS_KEY,HARD,DEDUPLICATE,Duplicate customer_id with a distinct physical source record.
+B001,customer,DEF_CUSTOMER_NULLKEY_B001_001,nan,CUST_NULL_CUSTOMER_ID,HARD,QUARANTINE,Critical business key customer_id is NULL.
+B001,customer,DEF_CUSTOMER_NULLKEY_B001_002,nan,CUST_NULL_CUSTOMER_ID,HARD,QUARANTINE,Critical business key customer_id is NULL.
+B001,customer,DEF_CUSTOMER_NULLKEY_B001_003,nan,CUST_NULL_CUSTOMER_ID,HARD,QUARANTINE,Critical business key customer_id is NULL.
+B001,customer,SRC_CUSTOMER_B001_000011761,C0011761,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B001,customer,SRC_CUSTOMER_B001_000007092,C0007092,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B001,customer,SRC_CUSTOMER_B001_000010472,C0010472,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B001,customer,SRC_CUSTOMER_B001_000004728,C0004728,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B001,customer,SRC_CUSTOMER_B001_000021019,C0021019,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B001,customer,SRC_CUSTOMER_B001_000040638,C0040638,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B001,customer,SRC_CUSTOMER_B001_000025748,C0025748,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B001,customer,SRC_CUSTOMER_B001_000002414,C0002414,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B001,customer,SRC_CUSTOMER_B001_000042618,C0042618,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000013867,C0013867,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000017647,C0017647,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000041624,C0041624,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000024550,C0024550,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000027231,C0027231,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000024038,C0024038,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000038545,C0038545,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000045565,C0045565,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000017923,C0017923,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000021975,C0021975,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000035061,C0035061,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B001,customer,SRC_CUSTOMER_B001_000040032,C0040032,CUST_DATE_FORMAT_VARIANT,SOFT,PARSE_AND_LOAD,Date of birth uses a conflicting but supported source format.
+B001,customer,SRC_CUSTOMER_B001_000021574,C0021574,CUST_DATE_FORMAT_VARIANT,SOFT,PARSE_AND_LOAD,Date of birth uses a conflicting but supported source format.
+B001,customer,SRC_CUSTOMER_B001_000005612,C0005612,CUST_DATE_FORMAT_VARIANT,SOFT,PARSE_AND_LOAD,Date of birth uses a conflicting but supported source format.
+B001,customer,SRC_CUSTOMER_B001_000034848,C0034848,CUST_DATE_FORMAT_VARIANT,SOFT,PARSE_AND_LOAD,Date of birth uses a conflicting but supported source format.
+B001,customer,SRC_CUSTOMER_B001_000035720,C0035720,CUST_DATE_FORMAT_VARIANT,SOFT,PARSE_AND_LOAD,Date of birth uses a conflicting but supported source format.
+B001,customer,SRC_CUSTOMER_B001_000007145,C0007145,CUST_DATE_FORMAT_VARIANT,SOFT,PARSE_AND_LOAD,Date of birth uses a conflicting but supported source format.
+B001,customer,SRC_CUSTOMER_B001_000017000,C0017000,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B001,customer,SRC_CUSTOMER_B001_000021153,C0021153,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B001,customer,SRC_CUSTOMER_B001_000028955,C0028955,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B001,customer,SRC_CUSTOMER_B001_000010546,C0010546,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B001,customer,SRC_CUSTOMER_B001_000040085,C0040085,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B001,customer,SRC_CUSTOMER_B001_000011802,C0011802,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B001,customer,SRC_CUSTOMER_B001_000036799,C0036799,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B001,customer,SRC_CUSTOMER_B001_000000729,C0000729,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B001,address,SRC_ADDRESS_B001_000043609,A00043609,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B001,address,SRC_ADDRESS_B001_000004891,A00004891,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B001,address,SRC_ADDRESS_B001_000042274,A00042274,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B001,address,SRC_ADDRESS_B001_000001940,A00001940,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B001,address,SRC_ADDRESS_B001_000061157,A00061157,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B001,address,SRC_ADDRESS_B001_000017169,A00017169,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B001,address,SRC_ADDRESS_B001_000021204,A00021204,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B001,address,SRC_ADDRESS_B001_000059064,A00059064,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B001,address,SRC_ADDRESS_B001_000035053,A00035053,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B001,address,SRC_ADDRESS_B001_000046244,A00046244,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B001,address,DEF_ADDRESS_ORPHAN_B001_001,A_BAD_B001_001,ADDR_ORPHAN_CUSTOMER,HARD,QUARANTINE,Address references a customer_id that does not exist.
+B001,product,DEF_PRODUCT_PRICE_B001_001,P_BAD_B001_001,PROD_NEGATIVE_PRICE,HARD,QUARANTINE,Product price is negative.
+B001,product,DEF_PRODUCT_PRICE_B001_002,P_BAD_B001_002,PROD_INVALID_PRICE_TYPE,HARD,QUARANTINE,Product price cannot be cast to a numeric value.
+B001,product,SRC_PRODUCT_B001_000000359,P000359,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B001,product,SRC_PRODUCT_B001_000000055,P000055,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B001,product,SRC_PRODUCT_B001_000000426,P000426,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B001,product,SRC_PRODUCT_B001_000000129,P000129,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B001,product,SRC_PRODUCT_B001_000000260,P000260,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B001,product,SRC_PRODUCT_B001_000000128,P000128,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B001,product,SRC_PRODUCT_B001_000000184,P000184,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B001,product,SRC_PRODUCT_B001_000000368,P000368,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B001,category,DEF_CATEGORY_CYCLE_B001_001,CAT_BAD_B001_1,CAT_CIRCULAR_HIERARCHY,HARD,QUARANTINE,Category participates in a circular parent-child hierarchy.
+B001,category,DEF_CATEGORY_CYCLE_B001_002,CAT_BAD_B001_2,CAT_CIRCULAR_HIERARCHY,HARD,QUARANTINE,Category participates in a circular parent-child hierarchy.
+B001,product_category,DEF_PC_ORPHAN_PRODUCT_B001_001,PC_BAD_B001_001,PC_ORPHAN_PRODUCT,HARD,QUARANTINE,Product/category mapping references an unknown product.
+B001,product_category,DEF_PC_ORPHAN_CATEGORY_B001_001,PC_BAD_B001_002,PC_ORPHAN_CATEGORY,HARD,QUARANTINE,Product/category mapping references an unknown category.
+B001,order,DEF_ORDER_NULLKEY_B001_001,None,ORD_NULL_ORDER_ID,HARD,QUARANTINE,Critical order_id is NULL.
+B001,order,DEF_ORDER_BADDATE_B001_001,O_BADDATE_B001_001,ORD_INVALID_TIMESTAMP,HARD,QUARANTINE,Order timestamp cannot be parsed into a valid TimestampType.
+B001,order_item,DEF_ORDER_ITEM_B001_001,OI_BAD_B001_001,OI_INVALID_QUANTITY_TYPE,HARD,QUARANTINE,Quantity cannot be cast to integer.
+B001,order_item,DEF_ORDER_ITEM_B001_002,OI_BAD_B001_002,OI_NON_POSITIVE_QUANTITY,HARD,QUARANTINE,Quantity must be greater than zero.
+B001,order_item,DEF_ORDER_ITEM_B001_003,OI_BAD_B001_003,OI_ORPHAN_ORDER,HARD,QUARANTINE,Order item references an unknown order.
+B001,order_item,DEF_ORDER_ITEM_B001_004,OI_BAD_B001_004,OI_ORPHAN_PRODUCT,HARD,QUARANTINE,Order item references an unknown product.
+B001,order_item,DEF_ORDER_ITEM_NEGPRICE_B001_001,OI_BAD_B001_005,OI_NEGATIVE_UNIT_PRICE,HARD,QUARANTINE,Unit price must be non-negative.
+B001,payment,DEF_PAYMENT_B001_001,PAY_BAD_B001_001,PAY_NON_POSITIVE_AMOUNT,HARD,QUARANTINE,Payment amount must be strictly greater than zero.
+B001,payment,DEF_PAYMENT_B001_002,PAY_BAD_B001_002,PAY_NEGATIVE_AMOUNT,HARD,QUARANTINE,Payment amount is negative.
+B001,payment,DEF_PAYMENT_B001_003,PAY_BAD_B001_003,PAY_INVALID_METHOD,HARD,QUARANTINE,Payment method is outside the accepted domain.
+B001,payment,DEF_PAYMENT_B001_004,PAY_BAD_B001_004,PAY_ORPHAN_ORDER,HARD,QUARANTINE,Payment references an unknown order.
+B001,return,DEF_RETURN_ORPHAN_B001_001,R_BAD_B001_001,RET_ORPHAN_ORDER,HARD,QUARANTINE,Return header references an unknown order.
+B001,return_item,DEF_RETURN_ITEM_QTY_B001_001,RI_BAD_B001_001,RI_QUANTITY_EXCEEDS_PURCHASE,HARD,QUARANTINE,Returned quantity exceeds the quantity originally purchased.
+B001,return_item,DEF_RETURN_ITEM_ORPHAN_B001_001,RI_BAD_B001_002,RI_ORPHAN_ORDER_ITEM,HARD,QUARANTINE,Return item references an unknown order_item.
+B002,customer,DEF_CUSTOMER_DUP_B002_001,C0050909,CUST_DUPLICATE_BUSINESS_KEY,HARD,DEDUPLICATE,Duplicate customer_id with a distinct physical source record.
+B002,customer,DEF_CUSTOMER_DUP_B002_002,C0013986,CUST_DUPLICATE_BUSINESS_KEY,HARD,DEDUPLICATE,Duplicate customer_id with a distinct physical source record.
+B002,customer,DEF_CUSTOMER_NULLKEY_B002_001,nan,CUST_NULL_CUSTOMER_ID,HARD,QUARANTINE,Critical business key customer_id is NULL.
+B002,customer,SRC_CUSTOMER_B002_000000997,C0050597,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B002,customer,SRC_CUSTOMER_B002_000001507,C0051107,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B002,customer,SRC_CUSTOMER_B002_000001139,C0050739,CUST_INVALID_EMAIL,SOFT,FLAG_AND_LOAD,Email does not match the accepted email regex.
+B002,customer,SRC_CUSTOMER_B002_000001660,C0051260,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B002,customer,SRC_CUSTOMER_B002_000001043,C0050643,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B002,customer,SRC_CUSTOMER_B002_000000684,C0050284,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B002,customer,SRC_CUSTOMER_B002_000000668,C0050268,CUST_PHONE_NON_STANDARD,SOFT,CLEANSE_AND_LOAD,Phone uses a non-canonical but recoverable format.
+B002,customer,SRC_CUSTOMER_B002_000001479,C0051079,CUST_DATE_FORMAT_VARIANT,SOFT,PARSE_AND_LOAD,Date of birth uses a conflicting but supported source format.
+B002,customer,SRC_CUSTOMER_B002_000001637,C0051237,CUST_DATE_FORMAT_VARIANT,SOFT,PARSE_AND_LOAD,Date of birth uses a conflicting but supported source format.
+B002,customer,SRC_CUSTOMER_B002_000001282,C0050882,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B002,customer,SRC_CUSTOMER_B002_000000019,C0019940,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B002,customer,SRC_CUSTOMER_B002_000000395,C0023242,CUST_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Boolean flag uses an alternate source representation.
+B002,address,SRC_ADDRESS_B002_000001479,A00065316,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B002,address,SRC_ADDRESS_B002_000001406,A00065243,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B002,address,SRC_ADDRESS_B002_000001723,A00065560,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B002,address,SRC_ADDRESS_B002_000001247,A00065084,ADDR_COUNTRY_NON_STANDARD,SOFT,STANDARDIZE_AND_LOAD,Country value requires trim and ISO mapping to GB.
+B002,address,DEF_ADDRESS_ORPHAN_B002_001,A_BAD_B002_001,ADDR_ORPHAN_CUSTOMER,HARD,QUARANTINE,Address references a customer_id that does not exist.
+B002,product,DEF_PRODUCT_PRICE_B002_001,P_BAD_B002_001,PROD_NEGATIVE_PRICE,HARD,QUARANTINE,Product price is negative.
+B002,product,DEF_PRODUCT_PRICE_B002_002,P_BAD_B002_002,PROD_INVALID_PRICE_TYPE,HARD,QUARANTINE,Product price cannot be cast to a numeric value.
+B002,product,SRC_PRODUCT_B002_000000106,P000506,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B002,product,SRC_PRODUCT_B002_000000043,P000104,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B002,product,SRC_PRODUCT_B002_000000102,P000502,PROD_BOOLEAN_VARIANT,SOFT,STANDARDIZE_AND_LOAD,Product active flag uses a non-canonical Boolean representation.
+B002,category,DEF_CATEGORY_CYCLE_B002_001,CAT_BAD_B002_1,CAT_CIRCULAR_HIERARCHY,HARD,QUARANTINE,Category participates in a circular parent-child hierarchy.
+B002,category,DEF_CATEGORY_CYCLE_B002_002,CAT_BAD_B002_2,CAT_CIRCULAR_HIERARCHY,HARD,QUARANTINE,Category participates in a circular parent-child hierarchy.
+B002,product_category,DEF_PC_ORPHAN_PRODUCT_B002_001,PC_BAD_B002_001,PC_ORPHAN_PRODUCT,HARD,QUARANTINE,Product/category mapping references an unknown product.
+B002,product_category,DEF_PC_ORPHAN_CATEGORY_B002_001,PC_BAD_B002_002,PC_ORPHAN_CATEGORY,HARD,QUARANTINE,Product/category mapping references an unknown category.
+B002,order,DEF_ORDER_NULLKEY_B002_001,None,ORD_NULL_ORDER_ID,HARD,QUARANTINE,Critical order_id is NULL.
+B002,order,DEF_ORDER_BADDATE_B002_001,O_BADDATE_B002_001,ORD_INVALID_TIMESTAMP,HARD,QUARANTINE,Order timestamp cannot be parsed into a valid TimestampType.
+B002,order_item,DEF_ORDER_ITEM_B002_001,OI_BAD_B002_001,OI_INVALID_QUANTITY_TYPE,HARD,QUARANTINE,Quantity cannot be cast to integer.
+B002,order_item,DEF_ORDER_ITEM_B002_002,OI_BAD_B002_002,OI_NON_POSITIVE_QUANTITY,HARD,QUARANTINE,Quantity must be greater than zero.
+B002,order_item,DEF_ORDER_ITEM_B002_003,OI_BAD_B002_003,OI_ORPHAN_ORDER,HARD,QUARANTINE,Order item references an unknown order.
+B002,order_item,DEF_ORDER_ITEM_B002_004,OI_BAD_B002_004,OI_ORPHAN_PRODUCT,HARD,QUARANTINE,Order item references an unknown product.
+B002,order_item,DEF_ORDER_ITEM_NEGPRICE_B002_001,OI_BAD_B002_005,OI_NEGATIVE_UNIT_PRICE,HARD,QUARANTINE,Unit price must be non-negative.
+B002,payment,DEF_PAYMENT_B002_001,PAY_BAD_B002_001,PAY_NON_POSITIVE_AMOUNT,HARD,QUARANTINE,Payment amount must be strictly greater than zero.
+B002,payment,DEF_PAYMENT_B002_002,PAY_BAD_B002_002,PAY_NEGATIVE_AMOUNT,HARD,QUARANTINE,Payment amount is negative.
+B002,payment,DEF_PAYMENT_B002_003,PAY_BAD_B002_003,PAY_INVALID_METHOD,HARD,QUARANTINE,Payment method is outside the accepted domain.
+B002,payment,DEF_PAYMENT_B002_004,PAY_BAD_B002_004,PAY_ORPHAN_ORDER,HARD,QUARANTINE,Payment references an unknown order.
+B002,return,DEF_RETURN_ORPHAN_B002_001,R_BAD_B002_001,RET_ORPHAN_ORDER,HARD,QUARANTINE,Return header references an unknown order.
+B002,return_item,DEF_RETURN_ITEM_QTY_B002_001,RI_BAD_B002_001,RI_QUANTITY_EXCEEDS_PURCHASE,HARD,QUARANTINE,Returned quantity exceeds the quantity originally purchased.
+B002,return_item,DEF_RETURN_ITEM_ORPHAN_B002_001,RI_BAD_B002_002,RI_ORPHAN_ORDER_ITEM,HARD,QUARANTINE,Return item references an unknown order_item.
